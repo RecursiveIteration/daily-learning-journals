@@ -6,4 +6,4 @@ Today we covered a little more java script.  We learned how to reference a javas
 - [Ctrl-l] in Atom to select the current line of code.
 - [Ctrl-/] in Atom to comment/uncomment the currently selected code.
 We also learned more about using Git.  We learned to create repo's on Github and then pull them to our computer.  We also learned how to create repos on our PC and then sinc them with a new Github repo using the command:
-git remote add <name> <url>.
+git remote add 'name' 'repo-url'.
